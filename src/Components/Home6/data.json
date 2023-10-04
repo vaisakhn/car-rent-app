@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "caption":"Thar",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"Hybrid",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://imgd-ct.aeplcdn.com/1056x660/n/rskpp0b_1638613.jpg?q=80"
+       },
+    {
+        "id":2,
+        "caption":"VW Polo",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://www.topgear.com/sites/default/files/2021/11/Small-32015-PoloStyle.jpg"
+    }
+    ,
+    {
+        "id":3,
+        "caption":"Figo",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://imgd.aeplcdn.com/0x0/n/cw/ec/35463/figo-exterior-right-front-three-quarter-151687.jpeg?q=80"   
+    }
+    ,
+    {
+        "id":4,
+        "caption":"Duster",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://stimg.cardekho.com/images/carexteriorimages/930x620/Renault/Duster/7704/1598257607089/front-left-side-47.jpg"   
+       
+    }
+    ,
+    {
+        "id":5,
+        "caption":"BMW i4",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://www.bmw.in/content/dam/bmw/common/all-models/i-series/i4/onepager-new/bmw-i4-edrive-40-onepager-gallery-i4-exterior-videos-02.jpg"   
+    }
+    ,
+    {
+        "id":6,
+        "caption":"Innova",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYHxNEUE74s69EBYErhfZf_zxRj6rPoyQr-vefAPbMFoND7sMXIRd0CEyk4MtiGA8AFQ&usqp=CAU"   
+    }
+]

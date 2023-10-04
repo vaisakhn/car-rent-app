@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "caption":"Toyota RAV4",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"Hybrid",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+    },
+    {
+        "id":2,
+        "caption":"BMW 3 Series",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2dslWp6POLJga0XVTFksjC5_WCzvcaKnKw&usqp=CAU"   
+    }
+    ,
+    {
+        "id":3,
+        "caption":"Volkswagen T-cross",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUIqt82BUeV1EaVsqQCUjdQwv8ITrSEWy5Q&usqp=CAU"   
+    }
+    ,
+    {
+        "id":4,
+        "caption":"Cadillac Escalade",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAER3E_3yjccAyrXQUZ102JCXJsrS2TZ4asg&usqp=CAU"   
+    }
+    ,
+    {
+        "id":5,
+        "caption":"BMW 4 Series GtI",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://i.ytimg.com/vi/ERptrkcRnKQ/maxresdefault.jpg"   
+    }
+    ,
+    {
+        "id":6,
+        "caption":"BMW 4 Series",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://s1.cdn.autoevolution.com/images/models/BMW_4-Series-Gran-Coupe--G26--2021_main.jpg"   
+    }
+]

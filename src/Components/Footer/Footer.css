@@ -1,0 +1,18 @@
+.footer{
+    width: 100%;
+    height: 7vh;
+    background-color: rgb(219, 228, 235);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.btns{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 35%;
+}
+.button{
+    cursor: pointer;
+}

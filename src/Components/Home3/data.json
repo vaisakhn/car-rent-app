@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "caption":"Toyota RAV4",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"Hybrid",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg"
+    },
+    {
+        "id":2,
+        "caption":"BMW 3 Series",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2dslWp6POLJga0XVTFksjC5_WCzvcaKnKw&usqp=CAU"   
+    }
+    ,
+    {
+        "id":3,
+        "caption":"Volkswagen T-cross",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUIqt82BUeV1EaVsqQCUjdQwv8ITrSEWy5Q&usqp=CAU"   
+    },
+    {
+        "id":4,
+        "caption":"Thar",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"Hybrid",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://imgd-ct.aeplcdn.com/1056x660/n/rskpp0b_1638613.jpg?q=80"
+       },
+    {
+        "id":5,
+        "caption":"VW Polo",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://www.topgear.com/sites/default/files/2021/11/Small-32015-PoloStyle.jpg"
+    }
+    ,
+    {
+        "id":6,
+        "caption":"Figo",
+        "people":"4 people ",
+        "milage":"9km/1-litre",
+        "engine":"petrol",
+        "type":"automatic",
+        "rent":"$420/month",
+        "img":"https://imgd.aeplcdn.com/0x0/n/cw/ec/35463/figo-exterior-right-front-three-quarter-151687.jpeg?q=80"   
+    }
+    
+]

@@ -1,0 +1,118 @@
+.container{
+    width: 100%;
+    height: 83vh;
+    background-color:  rgb(219, 228, 235);
+    display: flex;
+    flex-direction: column;
+}
+.cards{
+    width: 350px;
+    height: 40vh;
+    background-color: aliceblue;
+    border-radius: 5%;
+    box-shadow: 5px 6px 3px #242323;
+    display: flex;
+    flex-direction: column;
+    border: solid;
+    border-width: .5px;
+    border-color: rgb(197, 187, 245);
+}
+.car{
+    width: 100%;
+    height: 16vh;
+    background-size: cover;
+    border-radius: 5%;
+}
+.text{
+    width: 100%;
+    height: 24vh;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(219, 228, 235);
+}
+.details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 13vh;
+    width: 100%;
+    
+}
+.rent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    height: 11vh;
+    border-radius: 5%;
+}
+.para{
+    font-size: small;
+}
+h4{
+    font-size: medium;
+}
+.btn{
+    size:4rem;
+    background-color: rgb(14, 14, 240);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.card{
+    display: flex;
+    background-color: rgb(219, 228, 235);
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 93vh;
+    
+}
+
+
+.header{
+    width: 100%;
+    background-color: rgb(219, 228, 235);
+    height: 10vh;
+   align-items: center;
+    justify-content: left;
+    display: flex;
+}
+
+.search{
+   width: 100%;
+   max-width: 200px;
+   background: white;
+   display: flex;
+   align-items: center;
+   border-radius: 60px;
+   padding: 10px 20px;
+   height: 2vh;
+   justify-content: center;
+}
+.search input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 24px 20px;
+    color: black;
+    text-emphasis-color: white;
+}
+::placeholder{
+    color: black;
+}
+.searchicon{
+    border-radius: 50%;
+    border: 0;
+    cursor: pointer;
+    background-color: white;
+   
+}
+.img{
+    width: 20px;
+    height: 20px;
+    
+}
